@@ -1,0 +1,6 @@
+cake|10|20
+bread|5|100
+cake|20|30
+milk|20|110
+egg|5|50
+cake|15|30
